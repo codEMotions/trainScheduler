@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    background-image: url("../images/BNEF-Recap-Post.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Hind', sans-serif;
+}
+
+.card-header {
+    background-image: linear-gradient(to right, #D7AD26, #1B757C);
+}
+
+.card-body {
+    background-color: #FEF2C2;
+}
+
+.jumbotron {
+    background-color: #1B757C;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+
+#musicControl {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
